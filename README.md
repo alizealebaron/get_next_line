@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alizealebaron/alizealebaron/blob/main/assets/gnl_simple.png" width="120"/>
+  <img src="https://github.com/alizealebaron/alizealebaron/blob/main/assets/get_next_line.png" width="120"/>
 </p>
 <h3 align="center">
   <em>Reading a line from a file descriptor is way too tedious.</em>
