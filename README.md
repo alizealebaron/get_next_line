@@ -29,8 +29,6 @@
 
 **Rendu le :** 04/11/2025.
 
-**Note :** 100/100.
-
 ## 📂 Objectif du projet
 
 Le but de get_next_line est d’écrire une fonction capable de lire une ligne complète depuis un fichier ou l’entrée standard (stdin), ligne par ligne, à chaque appel. Ce projet nous initie à la gestion des flux, aux appels système (`read`, `open`, etc.), et à la mémoire dynamique en C.
